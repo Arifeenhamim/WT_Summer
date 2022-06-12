@@ -1,0 +1,42 @@
+[
+    {
+        "firstname": "hamim",
+        "lastname": "khan",
+        "age": "15",
+        "pass": "jkbjh",
+        "email": "arifeen@gmail.com",
+        "language": "java",
+        "designation": "juniorprogrammer",
+        "filepath": ""
+    },
+    {
+        "firstname": "hamim",
+        "lastname": "hjvhjhj",
+        "age": "32",
+        "pass": "jbkbkbjk",
+        "email": "arifeen@gmail.com",
+        "language": "javaphp",
+        "designation": "juniorprogrammer",
+        "filepath": ""
+    },
+    {
+        "firstname": "",
+        "lastname": "",
+        "age": "",
+        "pass": "",
+        "email": "",
+        "language": "javaphp",
+        "designation": null,
+        "filepath": "..\/uploads\/0256090919839897.pdf"
+    },
+    {
+        "firstname": "",
+        "lastname": "",
+        "age": "",
+        "pass": "",
+        "email": "",
+        "language": ",java,php",
+        "designation": null,
+        "filepath": ""
+    }
+]
