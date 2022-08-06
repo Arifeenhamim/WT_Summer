@@ -1,0 +1,96 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+}
+.bodyimage
+{
+    background-image: linear-gradient(to left bottom, #ffffff, #d2c8ff, #a691fd, #7659f6, #3512eb);
+}
+
+body form
+{
+    margin-top: 10px;
+    margin-left: 34%;
+}
+
+#denger {
+    color: red;
+}
+
+#success {
+    color: green;
+}
+
+#primary
+{
+    color: blue
+}
+
+form {
+    width: 450px;
+    background-color: white;
+    padding: 30px 70px;
+    box-shadow: 0px 5px 10px black;
+}
+
+header h1 {
+    text-align: left;
+    margin-top: 50px;
+}
+
+header h2 {
+    text-align: left;
+    margin-top: 100px;
+}
+
+.h2 {
+    text-align: left;
+    font-size: 30px;
+    margin-bottom: 10px;
+    background-color: cornflowerblue;
+    color: white;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+input[type=text], input[type=password] {
+
+    background-color: #f2f4f6;
+    padding: 22px;
+    margin: 8px 0;
+    display: inline-block;
+    border: none;
+    width: 290px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+
+
+#uniqueuse
+{
+    text-align: right;
+}
+
+.inputbutton
+{
+    width: 290px;
+    background-color: #04AA6D;
+    padding: 8px;
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    margin: 15px 0;
+    transition: background-color 0.4s;
+}
+
+.inputbutton:hover {
+    opacity: 0.8;
+}
+
+.container {
+    padding: 16px;
+}
