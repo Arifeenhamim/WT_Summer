@@ -1,0 +1,110 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  padding: 10px;
+  background: rgb(186,210,212);
+}
+div.frame
+{
+  border-bottom: double;
+  padding: 10px;
+}
+/* Header/Blog Title */
+.header {
+  color: black;
+  padding: 30px;
+  text-align: left;
+  background: skyblue;
+}
+.button
+{
+  color: black;
+  background: blue;
+}
+
+.submit{
+  background-color: rgb(122, 139, 247);
+  color: black;
+}
+.reset{
+  background-color: rgb(122, 139, 247);
+  color: black;
+}
+.header h1 {
+  font-size: 30px;
+}
+.header h2 {
+  color: purple;
+}
+
+
+div.sticky {
+    position: sticky;
+    top: 0;
+    padding: 0;
+    border: 2px solid #8461d4;
+  
+  }
+/* Style the top navigation bar */
+.topnav {
+  
+  overflow: hidden;
+  background-color: rgb(30, 8, 51);
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.topnav p {
+    float: right;
+    display: block;
+    color: blue;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: rgb(221, 221, 221);
+  color: black;
+}
+div.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+  border: 3px solid #73AD21;
+}
+
+
+td{
+  background-color: rgb(232, 232, 158);
+}
+/* Left and right column */
+
+/* Middle column */
+div.middlecolumn {
+  position: relative;
+  left: 25%;
+  float: center;
+  width: 50%;
+}
+
+.registrationBox {
+  background-color: rgb(184, 184, 184);
+  border-left: 15px solid rgb(67, 166, 205);
+  padding: 4px;
+  font-size: 10px;
+ 
+}
